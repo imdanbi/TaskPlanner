@@ -1,2 +1,2 @@
 #TaskPlanner
-업무 일정 관리 test
+업무 일정 관리
